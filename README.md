@@ -21,9 +21,10 @@
 <p align="left">
 <a href="https://twitter.com/gauravmishra077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravmishra077" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gauravmishra77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gauravmishra77/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100027932089625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027932089625" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027932089625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027932089625" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vatsa_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vatsa_7/" height="30" width="40" /></a>
- <a href="[https://twitter.com/gauravmishra077](https://www.snapchat.com/add/gauravmishra077?share_id=IRgVjTEknoQ&locale=en-US)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="gauravmishra077" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/gauravmishra077?share_id=IRgVjTEknoQ&locale=en-US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="https://www.instagram.com/vatsa_7/" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
