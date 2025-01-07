@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gauravmishra01?tab=repositories](https://github.com/Gauravmishra01?tab=repositories)
 
-- 💬 Ask me about **Js, Python**
+- 💬 Ask me about **Js & Python**
 
 - 📫 How to reach me **gauravmishra92812@gmail.com**
 
