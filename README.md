@@ -75,8 +75,6 @@
   <a href="https://dribbble.com/gauravmishra77" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
-
-  
   <a href="https://x.com/gauravmishra077" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
@@ -87,5 +85,3 @@
 <img src="https://raw.githubusercontent.com/Gauravmishra01/Gauravmishra01/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
