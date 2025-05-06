@@ -1,3 +1,7 @@
+<h2 align="left">Hi 👋! My name is Gaurav Mishra and I'm a Mern Stack Developer from India</h2>
+
+###
+
 <div align="center">
   <img height="200" src="https://i.pinimg.com/736x/30/50/cf/3050cf7f87314ac9dbb793173e6150d9.jpg"  />
 </div>
@@ -8,12 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gauravmishra01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Gauravmishra01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Gauravmishra01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauravmishra01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<h2 align="left">Hi 👋! My name is Gaurav Mishra and I'm a Mern Stack Developer from India</h2>
 
 ###
 
@@ -86,16 +85,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gauravmishra01/Gauravmishra01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gauravmishra01/Gauravmishra01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gauravmishra01/Gauravmishra01/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Gauravmishra01/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/Gauravmishra01/Gauravmishra01/output/snake.svg" alt="Snake animation" />
 
 ###
