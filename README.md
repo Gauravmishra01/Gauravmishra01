@@ -60,7 +60,7 @@ I'm a passionate **MERN Stack Developer** from India 🇮🇳, dedicated to buil
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gauravmishra01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gauravmishra01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
 </div>
 
 ---
@@ -68,7 +68,7 @@ I'm a passionate **MERN Stack Developer** from India 🇮🇳, dedicated to buil
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gauravmishra01&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gauravmishra01&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
