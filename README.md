@@ -56,7 +56,7 @@ I'm a passionate **MERN Stack Developer** from India 🇮🇳, dedicated to buil
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gauravmishra01&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravmishra01&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Gauravmishra01&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
