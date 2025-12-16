@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/github/stars/Gauravmishra01?label=Stars&style=for-the-badge&color=9745f5" alt="GitHub Stars" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gauravmishra77/"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gauravmishra92812@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
@@ -33,13 +28,12 @@ I'm a passionate **MERN Stack Developer** from India 🇮🇳, dedicated to buil
 - 🎯 Goal: Contributing to impactful open-source projects
 - ⚡ Fun fact: I believe in learning by doing!
 - 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 Reach me at **gauravmishra92812@gmail.com**
 
 <br clear="both">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack & Tools
 
 <div align="center">
 
